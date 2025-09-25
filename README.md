@@ -8,10 +8,11 @@ I am passionate about **untangling the molecular basis of agronomic and adaptive
 ---
 
 ## 🔬 Research Interests  
-- **Genomic Prediction (GP)**  
-- **Genome-Wide Association Studies (GWAS)**  
-- **Population Genomics**  
-- **Differential Gene Expression Analysis**  
+- **Plant Breeding**  
+- **Quantitative & Population Genomics**
+- **Local Adaptation**
+- **GWAS & Genomic Prediction (GP)** 
+- **Gene Expression Analysis**  
 - **Applications of Statistical & Machine Learning Methods**  
 
 ---
