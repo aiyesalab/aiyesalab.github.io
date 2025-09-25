@@ -1,3 +1,6 @@
+#<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/7fc710dd-e56e-4fda-ba27-7b55d2cc4f94" />
+
+
 # 👋 Welcome  
 
 I am passionate about **untangling the molecular basis of agronomic and adaptive traits** using **data-driven approaches**.  
