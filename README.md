@@ -1,7 +1,7 @@
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/7fc710dd-e56e-4fda-ba27-7b55d2cc4f94" />
 
 
-# 👋 Welcome  
+# 👋 Welcome to my page 
 
 I am passionate about **untangling the molecular basis of agronomic and adaptive traits** using **data-driven approaches**.  
 
