@@ -19,7 +19,7 @@ I am passionate about **untangling the molecular basis of agronomic and adaptive
 
 ## 🧪 Collaboration & Methods  
 
-I collaborate closely with field and laboratory technicians to:  
+I collaborate closely with field and laboratory experts to:  
 - Design and execute experiments  
 - Generate high-quality phenotypic and genotypic datasets  
 - Derive meaningful insights through integrative data analysis  
