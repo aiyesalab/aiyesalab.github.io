@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-05-21 at 12 50 08](https://github.com/user-attachments/assets/ab96bca0-542c-49fb-94f9-8a75d7af928a)
+
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/7fc710dd-e56e-4fda-ba27-7b55d2cc4f94" />
 
 
