@@ -1,6 +1,3 @@
-![WhatsApp Image 2025-05-21 at 12 50 08](https://github.com/user-attachments/assets/ab96bca0-542c-49fb-94f9-8a75d7af928a)
-
-
 # 👋 Welcome to my page 
 
 I am passionate about **untangling the molecular basis of agronomic and adaptive traits** using **data-driven approaches**.  
